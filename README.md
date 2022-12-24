@@ -8,7 +8,7 @@ Game developed during the challenge of #7DaysofCode.
 | -------------  | --- |
 | :sparkles: Nome        | Jogo do Adivinha
 | :label: Tecnologias | HTML, CSS, Javascript, Figma
-| :rocket: URL         | 
+| :rocket: URL         | https://ruan-narici.github.io/jogo-do-adivinha/
 
 ## Detail of project
 The game aims to guess the number that the computer is thinking.
